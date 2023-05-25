@@ -1,1 +1,1 @@
-test ReadMe
+Using GIT is easier than I thought
